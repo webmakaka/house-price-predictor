@@ -181,7 +181,7 @@ This project is part of the [**MLOps Bootcamp**](https://schoolofdevops.com) at 
 
 We welcome contributions, issues, and suggestions to make this project even better. Feel free to fork, explore, and raise PRs!
 
----
+------
 
 Happy Learning!  
 — Team **School of DevOps**
